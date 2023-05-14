@@ -1,0 +1,43 @@
+.footer{
+    background-color: white;
+    position:fixed;
+    height:100px;
+    width:100%;
+    bottom:0px;
+    color:rgb(52, 52, 247);
+    
+}
+
+.footertext{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.invitebtn{
+    margin:auto;
+    width:15%;
+    display:block;
+    color:blue;
+    background-color:rgb(59, 79, 207);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+    border-radius:5px;
+}
+
+.invitebtn:hover{
+    margin:auto;
+    width:15%;
+    display:block;
+    color:blue;
+    background-color:rgb(102, 43, 231);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+    border-radius:5px;
+}
+
+.invitebtntext{
+    color:white;
+}
